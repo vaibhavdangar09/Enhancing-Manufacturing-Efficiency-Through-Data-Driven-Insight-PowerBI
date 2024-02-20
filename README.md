@@ -1,5 +1,8 @@
 # Case Study: Enhancing Manufacturing Efficiency Through Data-Driven Insights
 
+![manufacturing](https://github.com/vaibhavdangar09/Enhancing-Manufacturing-Efficiency-Through-Data-Driven-Insight-PowerBI/assets/85430510/c2319136-a101-4aee-b72c-0adb3cd448be)
+
+
 # Background
 You are a data analyst at ProManu Analytics, a consultancy firm specializing in manufacturing analytics. Your team has been provided with two datasets: 'Manufacturing Production Data' and 'Employee Performance Metrics'. The 'Manufacturing Production Data' dataset encapsulates detailed information about various products, including production dates, costs, quantities, and warehouse locations. The 'Employee Performance Metrics' dataset offers insights into the workforce, covering departments, salaries, performance ratings, and countries of operation.
 
